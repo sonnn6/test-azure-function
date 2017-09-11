@@ -1,0 +1,19 @@
+{
+  "name": "test-azure-function",
+  "version": "1.0.0",
+  "description": "test azure function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnn6/test-azure-function.git"
+  },
+  "author": "Son Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnn6/test-azure-function/issues"
+  },
+  "homepage": "https://github.com/sonnn6/test-azure-function#readme"
+}
